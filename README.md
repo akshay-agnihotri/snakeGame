@@ -1,2 +1,4 @@
-# snakeGame
-This repository for the web application snakeGame  which is built using HTML, CSS, JavaScript,Canvas API.
+Snake Game 
+This is a web application built using HTML, CSS, JavaScript,Canvas API.
+ Live- snake-Game
+Code- snakeGame
