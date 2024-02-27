@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -14,14 +14,14 @@ body{
 }
 
 .container{
-    height: 40rem;
+    height: 100%;
     width: 36rem;
     background-color: white;
     box-shadow: 0 0 10px 1px lightgray;
 }
 
 .score-container{
-    height: 4rem;
+    height: 10%;
     width: 36rem;
     background-color: grey;
     display: flex;
@@ -31,7 +31,7 @@ body{
 }
 
 .game-container{
-    height: 36rem;
+    height: 90%;
     width: 36rem;
     display: grid;
     grid-template: repeat(25,1fr) / repeat(25,1fr);
